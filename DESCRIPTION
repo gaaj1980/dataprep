@@ -1,0 +1,12 @@
+Package: dataprep
+Title: Data preprocessing library
+Version: 0.0.1
+RoxygenNote: 6.0.1
+Authors@R: c(person("Gabriel Alves", "Developer", role = c("aut", "cre"), email = "gaaj1980@gmail.com"))
+Description: This library has functions to suppport data preprocessing activities
+    for data science applications.
+Imports: stats, graphics    
+Depends:
+    R (>= 3.2.2)
+License: MIT + file LICENSE
+LazyData: true
